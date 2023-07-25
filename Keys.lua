@@ -1,4 +1,4 @@
-local table = {
+table = {
   ["German11Lowik"] = {Key = "BubbleGum", Deported = false}
 }
 
