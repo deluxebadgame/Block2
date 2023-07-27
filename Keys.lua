@@ -1,3 +1,3 @@
-table = {
-  ["German11Lowik"] = {Key = "BubbleGum", Deported = false}
+return {
+  ["German11Lowik"] = {Key = "BubbleGum", blocked = false}
 }
