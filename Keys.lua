@@ -1,3 +1,3 @@
 return {
-  ["German11Lowik"] = {Key = "BubbleGum", blocked = false}
+  ["German11Lowik"] = {Key = "BubbleGum", deported = false}
 }
