@@ -11,11 +11,11 @@
 
 (02.07.23/16:39) Bobrilla становится участником Dezeroller
 
-(25.06.23/21:24) Rubrumexercitus становится участником Dezeroller
+(25.06.23/21:24) The_Mimic становится участником Dezeroller
 
-(20.06.23/0:13) Депортация 3д Rubrumexercitus
+(20.06.23/0:13) Депортация 3д The_Mimic
 
-(20.06.23/0:13) Предупреждение Rubrumexercitus
+(20.06.23/0:13) Предупреждение The_Mimic
 
 (18.06.23/23:45) HELLOWER стал Дисциплинарным Персоналом Dezeroller
 
@@ -30,7 +30,7 @@ German11Lowik - ⓝ
 HELLOWER - ⓝ
 wesewe - 6%
 Bobrilla - ⓝ
-Rubrumexercitus - 52%
+The_Mimic - 52%
 Zenitsu - ⓝ
 Pomidorka - ⓝ
 fat - 6%
@@ -38,5 +38,5 @@ Kakao - 3%
 
 
 (10.05.23/0:00) Событие на самого активного участника окончено
-Победитель : Rubrumexercitus
+Победитель : The_Mimic
 Приз : Медаль Лучшего Участника 2022г.
