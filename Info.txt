@@ -29,15 +29,16 @@
 (14.06.23/17:15) Проверка на неактивных участников
 ⓝ - Имеется причина неактивности
 ☠ - Участник попал под мониторинг персонала
+☹ - Неактивный участник
 0880 - 47%
 Artem1337 - 4%
-coolboylolYT - ☠
+coolboylolYT - 0% ☹ ☠
 German11Lowik - 6%
-HELLOWER - ⓝ
+HELLOWER - 0% ⓝ
 wesewe - 10%
 Bobrilla - 17%
 The_Mimic - 52%
-Zenitsu - ⓝ
+Zenitsu - 0% ⓝ
 Pomidorka - 0%
 fat - 6%
 Kakao - 3%
