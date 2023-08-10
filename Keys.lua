@@ -13,5 +13,6 @@ return { --Rank: 1 участник, 2 ПНУ, 3 Дисциплинарный п
   ["fat"] = {Key = "PJE6", deported = false, deported_desc = "", tokens = 0, rank = 1};
   ["Kakao"] = {Key = "4eQs", deported = false, deported_desc = "", tokens = 0, rank = 1};
   ["wesewe"] = {Key = "ya14VT", deported = false, deported_desc = "", tokens = 0, rank = 1};
+  ["HiroHito12"] = {Key = "MJ1685", deported = false, deported_desc = "", tokens = 0, rank = 1};
   ["Dezeroller"] = {Key = "6cP2", deported = false, deported_desc = "", tokens = 15286, rank = 4}
 }
