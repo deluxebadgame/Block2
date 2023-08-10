@@ -113,3 +113,10 @@ Trust Factor : 100%/100%
 Deports : 0/5
 Warnings : 0/2
 Join Date : 17/06/2023
+
+Alias : HiroHito12
+Rank : Участник
+Trust Factor : 100%/100%
+Deports : 0/5
+Warnings : 0/2
+Join Date : 10/08/2023
