@@ -1,10 +1,9 @@
 [
-  {
-    "name": "0880",
-    "key": "test",
-    "rank": 4,
-    "deported": false,
-    "deported_desc": "none",
-    "tokens": 0,
-  }
+  "0880": {
+        "key": "test",
+        "rank": 4,
+        "deported": false,
+        "deported_desc": "none",
+        "tokens": 0,
+    }
 ]
