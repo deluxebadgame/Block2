@@ -1,9 +1,7 @@
-[
- "Zeronine":{
+"Zeronine": {
     "key": "Hellower",
     "rank": 4,
     "deported": false,
     "deported_desc": "none",
     "tokens": 0
-  }
-]
+}
