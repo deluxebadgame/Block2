@@ -1,16 +1,4 @@
 [
-  {
-    "Name": "Hellower",
-    "Key": "Test",
-    "Deported": false,
-    "DeportedDESC": "none",
-    "Tokens": 0
-  },
-    {
-    "Name": "Hellower2",
-    "Key": "Test2",
-    "Deported": false,
-    "DeportedDESC": "none",
-    "Tokens": 0
-  }
-  ]
+	{"Name":"Hellower","Key":"HellowerKey","Deported":false,"DeportedDESC":"None","Tokens":0},
+  {"Name":"Hellower2","Key":"HellowerKey","Deported":false,"DeportedDESC":"None","Tokens":0}
+]
