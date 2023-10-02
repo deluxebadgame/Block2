@@ -1,4 +1,6 @@
 ▶Новости Dezeroller◀
+(01.10.23/23:53) Доступна новая версия Dezeroller Hub 2 Alpha-0110231
+
 (12.08.23/0:38) Lehach становится участником Dezeroller
 
 (11.08.23/18:50) Депортация coolboylolYT
@@ -25,27 +27,23 @@
 
 (06.07.23/12:26) Предупреждение German11Lowik
 
-(04.07.23/21:29) Доступна новая версия Dezeroller Hub 22 Pre Release
-
-(02.07.23/16:39) Bobrilla становится участником Dezeroller
-
 ▶События Dezeroller◀
 (14.06.23/17:15) Проверка на неактивных участников
 ⓝ - Имеется причина неактивности
 ☠ - Участник попал под мониторинг персонала
 ϟ - Неактивный участник
-0880 - 59%
-Artem1337 - 4%
-German11Lowik - 14%
+0880 - 42%
+Artem1337 - 0%
+German11Lowik - 5%
 HELLOWER - 0% |ⓝ|
-wesewe - 10%
-Bobrilla - 28%
-The_Mimic - 81%
+wesewe - 0%
+Bobrilla - 12%
+The_Mimic - 30%
 Zenitsu - 0% |ⓝ|
 Pomidorka - 0%
-fat - 6%
-Kakao - 3%
-Lehach - 44%
+fat - 0%
+Kakao - 0%
+Lehach - 15%
 
 
 (10.05.23/0:00) Событие на самого активного участника окончено
