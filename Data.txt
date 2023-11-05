@@ -16,7 +16,7 @@ Deports : 0/5
 Warnings : 0/2 
 Join Date : nil
  
-Alias : Artem1337 | ✖
+Alias : SKA1DOK
 Rank : Участник
 Trust Factor : 95%/100%
 Deports : 0/5
@@ -54,7 +54,7 @@ Warnings : 1/2
 Join Date : 06/09/2020
 (23.03.23 / 23:46) Нарушение КД. 2.2 (-10%)
  
-Alias : The_Mimic | ✖
+Alias : The_Mimic
 Rank : Участник
 Trust Factor : 0%/100%
 Deports : 3/5
