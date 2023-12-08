@@ -48,18 +48,18 @@
 ⓝ - Имеется причина неактивности
 ☠ - Участник попал под мониторинг персонала
 ϟ - Неактивный участник
-0880 - 27%
-SKA1DOK - 5% |☠|
-German11Lowik - 5%
+0880 - 15%
+SKA1DOK - 2% |☠|
+German11Lowik - 4%
 HELLOWER - 0% |ⓝ|
 wesewe - 0%
-Bobrilla - 10%
-The_Mimic - 15%
+Bobrilla - 2%
+The_Mimic - 10%
 Zenitsu - 0% |ⓝ|
 Pomidorka - 0%
 fat - 0%
 Kakao - 0%
-Lehach - 22%
+Lehach - 20% |☠|
 
 
 (10.05.23/0:00) Событие на самого активного участника окончено
