@@ -1,6 +1,6 @@
 Ⓔ - Участник имеет отношение к администрации Dezeroller;
 Ⓟ - Участник имеет разрешение на процессы ПНУ;
-✖ - Участник не установил Dezeroller Hub.
+✖ - Предположительно участник не имеет последнюю версию Dezeroller Hub;
 
 Alias : 0880 | Ⓔ Ⓟ
 Rank : Контрольный Администратор
@@ -8,7 +8,7 @@ Deports : 0/5
 Warnings : 0/2 
 Join Date : nil
  
-Alias : SKA1DOK
+Alias : SKA1DOK | ✖
 Rank : Участник
 Deports : 0/5
 Warnings : 2/2
@@ -29,7 +29,7 @@ Deports : 0/5
 Warnings : 0/2
 Join Date : 02/11/2022
  
-Alias : wesewe
+Alias : wesewe | ✖
 Rank : Участник
 Deports : 0/5
 Warnings : 0/2
@@ -43,7 +43,7 @@ Join Date : 06/09/2020
 (21.12.23 / 16:29) Нарушение ОДП. 1.2
 (23.03.23 / 23:46) Нарушение КД. 2.2
  
-Alias : The_Mimic
+Alias : The_Mimic | ✖
 Rank : Участник
 Deports : 3/5
 Warnings : 0/2
@@ -88,7 +88,7 @@ Deports : 0/5
 Warnings : 0/2
 Join Date : 28/05/2023
 
-Alias : Kakao
+Alias : Kakao | ✖
 Rank : Участник
 Deports : 0/5
 Warnings : 0/2
