@@ -4,13 +4,13 @@
 
 Alias : 0880 | Ⓔ Ⓟ
 Rank : Контрольный Администратор
-Deports : 0/5 
+Deports : 0
 Warnings : 0/2 
 Join Date : nil
  
 Alias : SKA1DOK | ✖
 Rank : Участник
-Deports : 0/5
+Deports : 0
 Warnings : 2/2
 Join Date : 14/01/2023
 (07.11.23 / 16:18) Нарушение ОДП. 1.2
@@ -18,26 +18,26 @@ Join Date : 14/01/2023
  
 Alias : German11Lowik | Ⓔ Ⓟ
 Rank : Дисциплинарный Персонал Dezeroller
-Deports : 0/5
+Deports : 0
 Warnings : 1/2
 Join Date : 15/01/2023
 (06.07.23 / 12:26) Нарушение КБД 3.5
 
 Alias : HELLOWER | Ⓔ Ⓟ
 Rank : Дисциплинарный Персонал Dezeroller
-Deports : 0/5
+Deports : 0
 Warnings : 0/2
 Join Date : 02/11/2022
  
 Alias : wesewe | ✖
 Rank : Участник
-Deports : 0/5
+Deports : 0
 Warnings : 0/2
 Join Date : 27/03/2023
  
 Alias : Bobrilla
 Rank : Участник
-Deports : 0/5
+Deports : 0
 Warnings : 2/2
 Join Date : 06/09/2020
 (21.12.23 / 16:29) Нарушение ОДП. 1.2
@@ -45,7 +45,7 @@ Join Date : 06/09/2020
  
 Alias : The_Mimic | ✖
 Rank : Участник
-Deports : 3/5
+Deports : 3
 Warnings : 0/2
 Join Date : 25/06/2023
 (17.10.23 / 16:59) Процесс депортации 3д окончен
@@ -70,13 +70,13 @@ Join Date : 25/06/2023
  
 Alias : Zenitsu | ✖
 Rank : Участник
-Deports : 0/5
+Deports : 0
 Warnings : 0/2
 Join Date : 27/12/2021
  
 Alias : Pomidorka | ✖
 Rank : Участник
-Deports : 0/5
+Deports : 0
 Warnings : 2/2
 Join Date : 26/02/2023
 (09.07.23 / 15:36) Нарушение ОДП. 1.5
@@ -84,19 +84,19 @@ Join Date : 26/02/2023
 
 Alias : fat | ✖
 Rank : Участник
-Deports : 0/5
+Deports : 0
 Warnings : 0/2
 Join Date : 28/05/2023
 
 Alias : Kakao | ✖
 Rank : Участник
-Deports : 0/5
+Deports : 0
 Warnings : 0/2
 Join Date : 17/06/2023
 
 Alias : Lehach
 Rank : Участник
-Deports : 4/5
+Deports : 4
 Warnings : 0/2
 Join Date : 18/12/2023
 (14.12.23 / 13:21) Процесс депортации 7д окончен
@@ -113,6 +113,6 @@ Join Date : 18/12/2023
 
 Alias : tuturugut
 Rank : Участник
-Deports : 0/5
+Deports : 0
 Warnings : 0/2
 Join Date : 18/12/2023
