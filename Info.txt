@@ -33,20 +33,20 @@
 ⓝ - Имеется причина неактивности
 ☠ - Участник попал под мониторинг персонала
 ϟ - Неактивный участник
-0880 - 6%
-SKA1DOK - 0% |☠|
-German11Lowik - 5%
-HELLOWER - 0% |ⓝ|
-wesewe - 0%
-Bobrilla - 0%
-The_Mimic - 6%
-Zenitsu - 0% |ⓝ|
-Pomidorka - 0%
-fat - 0%
-Kakao - 0%
-Lehach - 9%
-tuturugut - 0%
-ylo - 0%
+0880 12%
+SKA1DOK 0% |☠|
+German11Lowik 5%
+HELLOWER 0% |ⓝ|
+wesewe 0%
+Bobrilla -9%
+The_Mimic 6%
+Zenitsu 0% |ⓝ|
+Pomidorka 0%
+fat -15%
+Kakao -42%
+Lehach 10%
+tuturugut 5%
+ylo -10%
 
 
 (28.12.23/14:06)
