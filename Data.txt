@@ -1,13 +1,12 @@
 Ⓔ - Участник имеет отношение к администрации Dezeroller;
 Ⓟ - Участник имеет разрешение на процессы ПНУ;
-✖ - Предположительно участник не имеет последнюю версию Dezeroller Hub;
 
 Alias : 0880 | Ⓔ Ⓟ
 Rank : Контрольный Администратор
 Warnings : 0/2 
 Join Date : nil
  
-Alias : SKA1DOK | ✖
+Alias : SKA1DOK
 Rank : Участник
 Warnings : 2/2
 Join Date : 14/01/2023
@@ -30,14 +29,14 @@ Rank : Участник
 Warnings : 0/2
 Join Date : 27/03/2023
  
-Alias : Bobrilla | ✖
+Alias : Bobrilla
 Rank : Участник
 Warnings : 2/2
 Join Date : 06/09/2020
 (21.12.23 / 16:29) Нарушение ОДП. 1.2
 (23.03.23 / 23:46) Нарушение КД. 2.2
  
-Alias : The_Mimic | ✖
+Alias : The_Mimic
 Rank : Состав Модерации Dezeroller
 Warnings : 0/2
 Join Date : 25/06/2023
@@ -50,24 +49,24 @@ Join Date : 25/06/2023
 (14.10.23 / 15:20) Нарушение КД. 2.8
 (14.10.23 / 15:20) Нарушение КД. 2.2
  
-Alias : Pomidorka | ✖
+Alias : Pomidorka
 Rank : Участник
 Warnings : 2/2
 Join Date : 26/02/2023
 (09.07.23 / 15:36) Нарушение ОДП. 1.5
 (07.07.23 / 14:26) Нарушение ОДП. 1.5
 
-Alias : fat | ✖
+Alias : fat
 Rank : Участник
 Warnings : 0/2
 Join Date : 28/05/2023
 
-Alias : Kakao | ✖
+Alias : Kakao
 Rank : Участник
 Warnings : 0/2
 Join Date : 17/06/2023
 
-Alias : ylo | ✖
+Alias : ylo
 Rank : Участник
 Warnings : 0/2
 Join Date : 08/01/2024
