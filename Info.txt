@@ -81,18 +81,17 @@ dezdata.acc_-DEPORT_"идентификатор"
 ⓝ - Имеется причина неактивности
 ☠ - Участник попал под мониторинг персонала
 ϟ - Неактивный участник
-0880 71%
-SKA1DOK 9%
-German11Lowik 71%
-HELLOWER 60%
-wesewe -89% |ϟ|
-Bobrilla 10%
-The_Mimic 79%
-Pomidorka -100% |ϟ|
-fat -20%
-Kakao -100% |ϟ|
-ylo -75%
-arab35255 30%
+0880 60%
+SKA1DOK 2%
+German11Lowik 61%
+HELLOWER 34% |ⓝ|
+wesewe -95% |ϟ|
+Bobrilla 19%
+The_Mimic 80%
+fat -10%
+Kakao -15% |ϟ|
+ylo -82%
+arab35255 30% |☠|
 
 
 (28.12.23/14:06)
