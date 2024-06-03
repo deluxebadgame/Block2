@@ -3,54 +3,44 @@
 
 Alias : 0880 | Ⓔ Ⓟ
 Rank : Контрольный Администратор
-Warnings : 0/2 
 Join Date : nil
  
 Alias : German11Lowik | Ⓔ Ⓟ
 Rank : Состав Модерации Dezeroller
-Warnings : 1/2
 Join Date : 15/01/2023
 (06.07.23 / 12:26) Нарушение КБД 3.5
 
 Alias : HELLOWER | Ⓔ Ⓟ
 Rank : Дисциплинарный Персонал Dezeroller
-Warnings : 0/2
 Join Date : 02/11/2022
  
 Alias : wesewe | ✖
 Rank : Участник
-Warnings : 0/2
 Join Date : 27/03/2023
  
 Alias : Bobrilla
 Rank : Участник
-Warnings : 2/2
 Join Date : 06/09/2020
 (21.12.23 / 16:29) Нарушение ОДП. 1.2
 (23.03.23 / 23:46) Нарушение КД. 2.2
 
 Alias : fat
 Rank : Участник
-Warnings : 0/2
 Join Date : 28/05/2023
 
 Alias : Kakao
 Rank : Участник
-Warnings : 1/2
 Join Date : 17/06/2023
 (01.05.24 / 21:14) Нарушение ОДП. 1.5
 
 Alias : ylo
 Rank : Участник
-Warnings : 0/2
 Join Date : 08/01/2024
 
 Alias : The_Mimic
 Rank : Участник
-Warnings : 0/2
 Join Date : 15/04/2024
 
 Alias : arab35255
 Rank : Участник
-Warnings : 0/2
 Join Date : 27/04/2024
