@@ -28,10 +28,6 @@ Alias : fat
 Rank : Участник
 Join Date : 28/05/2023
 
-Alias : ylo
-Rank : Участник
-Join Date : 08/01/2024
-
 Alias : The_Mimic
 Rank : Участник
 Join Date : 15/04/2024
